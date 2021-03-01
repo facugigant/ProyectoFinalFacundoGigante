@@ -1,3 +1,40 @@
+@media only screen and (min-width: 1920px) {
+
+  .carrusel{
+    margin: 0%;
+    padding: 0%;
+  }
+  .icontel{
+        width: 16px;
+        height: 16px;
+       
+           }
+    .telefono{
+    font-size: 125%;
+  }
+  
+  .redes{ 
+    margin-left: 200px;
+     margin-top: -10x;}
+  
+    .googlemap{
+      width: 700px;
+      height: 550px;
+  
+    }
+  .menunav{ 
+    margin: 0%;
+  padding: 0%;
+  font-size: 200%;
+  margin-left: 55px !important;
+  }
+  
+    .pandita{
+  height: 45px;
+    }
+  
+  
+  }
 // Responsive PC 1920p
 @media only screen and (max-width: 1920px) {
 
@@ -14,9 +51,9 @@
   font-size: 125%;
 }
 
-  .redes{
-  width: 6fr;
-  }
+.redes{ 
+  margin-left: 200px;
+   margin-top: -10x;}
 
   .googlemap{
     width: 700px;
@@ -66,8 +103,13 @@ height: 45px;
   font-size: 100%;
   margin-left: 55px !important;
   }
+  // Responsive PC 768 
+@media only screen and (min-width: 768px) {
+
+.redes{margin-top: -45px;}
+ }
 // Responsive PC 768 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
 
  .googlemap{
    width: 450px;
@@ -76,10 +118,10 @@ height: 45px;
  .redes{
   text-align: start;
   margin-left: 350px;
-  margin-top: -45px;
+  margin-top: -45;
 }
  .telefono{ 
-   
+
    font-size: 125%;
    margin-right: 350px;
 }
@@ -119,10 +161,10 @@ height: 45px;
     width: 250px;
     }
     .topcel{
-     margin-left: -290px;
+     margin-left: -120px;
      }
      .redes{
-     margin-left: -10px;
+     margin-left: 150px;
      margin-top: -40px;
      }
     }
