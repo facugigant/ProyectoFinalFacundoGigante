@@ -1,0 +1,188 @@
+@media only screen and (max-width: 1920px) {
+  .carrusel {
+    margin: 0%;
+    padding: 0%;
+  }
+  .icontel {
+    width: 16px;
+    height: 16px;
+  }
+  .telefono {
+    font-size: 125%;
+  }
+  .redes {
+    width: 6fr;
+  }
+  .googlemap {
+    width: 700px;
+    height: 550px;
+  }
+  .menunav {
+    margin: 0%;
+    padding: 0%;
+    font-size: 200%;
+    margin-left: 55px !important;
+  }
+  .pandita {
+    height: 45px;
+  }
+}
+
+@media only screen and (max-width: 1080px) {
+  .redes {
+    text-align: start;
+    margin-left: 350px;
+    margin-top: -45px;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: -150px;
+  }
+  .telefono .icontel {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+.icontel {
+  width: 16px;
+  height: 16px;
+}
+
+.menunav {
+  margin: 0%;
+  padding: 0%;
+  font-size: 100%;
+  margin-left: 55px !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .googlemap {
+    width: 450px;
+    height: 550px;
+  }
+  .redes {
+    text-align: start;
+    margin-left: 350px;
+    margin-top: -45px;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: 350px;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .redes {
+    margin-left: 200px;
+    margin-top: -10x;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: 150px;
+  }
+  .icontel {
+    margin-top: -3px;
+    width: 16px;
+    height: 16px;
+  }
+  .googlemap {
+    width: 400px;
+    height: 550px;
+  }
+  .vermenuimg {
+    width: 400px;
+  }
+  .menunav {
+    margin: 0%;
+    padding: 0%;
+    font-size: 200%;
+    margin-left: 55px !important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .vermenuimg {
+    width: 250px;
+  }
+  .topcel {
+    margin-left: -290px;
+  }
+  .redes {
+    margin-left: -10px;
+    margin-top: -40px;
+  }
+}
+
+* {
+  text-align: center;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  background: black;
+}
+
+.navbar {
+  background: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+footer {
+  margin-top: 5%;
+  background: black;
+}
+
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+article {
+  color: white;
+}
+
+aside {
+  height: 30px;
+}
+
+aside {
+  height: 30px;
+}
+
+aside .redes {
+  letter-spacing: 15px;
+}
+
+aside .face:hover, aside .insta:hover, aside .whap:hover {
+  -webkit-transform: scale(2.3);
+          transform: scale(2.3);
+}
+
+.telefono {
+  font-size: 125%;
+}
+
+aside {
+  background: black;
+}
+/*# sourceMappingURL=Style.css.map */

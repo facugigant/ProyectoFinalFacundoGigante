@@ -1,0 +1,309 @@
+@media only screen and (max-width: 1920px) {
+  .carrusel {
+    margin: 0%;
+    padding: 0%;
+  }
+  .icontel {
+    width: 16px;
+    height: 16px;
+  }
+  .telefono {
+    font-size: 125%;
+  }
+  .redes {
+    width: 6fr;
+  }
+  .googlemap {
+    width: 700px;
+    height: 550px;
+  }
+  .menunav {
+    margin: 0%;
+    padding: 0%;
+    font-size: 200%;
+    margin-left: 55px !important;
+  }
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: red;
+  }
+  .pandita {
+    height: 45px;
+  }
+}
+
+@media only screen and (max-width: 1080px) {
+  .menunav {
+    margin: 0%;
+    padding: 0%;
+    font-size: 200%;
+    margin-left: 55px !important;
+  }
+  .telefono {
+    font-size: 125%;
+  }
+  .cartaimagenes {
+    width: 900px;
+  }
+  aside {
+    background: black;
+  }
+  a.nav-link {
+    margin-left: 50px;
+    font-size: 15px;
+  }
+  .icontel {
+    width: 16px;
+    height: 16px;
+  }
+  .googlemap {
+    width: 700px;
+    height: 550px;
+  }
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: red;
+  }
+  .pandita {
+    height: 45px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .cartaimagenes {
+    margin: 0%;
+    padding: 0;
+    margin-left: -11px;
+    width: 800px;
+    height: 800px;
+  }
+  .googlemap {
+    margin-top: 15%;
+    width: 500px;
+    height: 490px;
+  }
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: red;
+  }
+  .pandita {
+    height: 35px;
+  }
+  .redes {
+    text-align: start;
+    margin-left: 350px;
+    margin-top: -45px;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: -150px;
+  }
+  .telefono .icontel {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .cartaimagenes {
+    width: 600px;
+  }
+  .icontel {
+    width: 16px;
+    height: 16px;
+  }
+  .googlemap {
+    margin-top: 15%;
+    width: 500px;
+    height: 490px;
+  }
+  .menunav {
+    margin-left: 5px;
+  }
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: red;
+  }
+  .pandita {
+    height: 35px;
+  }
+  .redes {
+    text-align: start;
+    margin-left: 350px;
+    margin-top: -45px;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: 350px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .cartaimagenes {
+    margin: 0%;
+    padding: 0;
+    margin-left: -31px;
+    width: 700px;
+    height: 800px;
+  }
+  .icontel {
+    width: 16px;
+    height: 16px;
+  }
+  .googlemap {
+    margin-top: 15%;
+    width: 500px;
+    height: 490px;
+  }
+  .menunav {
+    margin-left: 5px;
+  }
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: red;
+  }
+  .pandita {
+    height: 35px;
+  }
+  .redes {
+    text-align: start;
+    margin-left: 350px;
+    margin-top: -45px;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: 350px;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .cartaimagenes {
+    margin: 0%;
+    padding: 0;
+    margin-left: -11px;
+    width: 410px;
+    height: 800px;
+  }
+  .googlemap {
+    margin-top: 15%;
+    width: 500px;
+    height: 490px;
+  }
+  .menunav {
+    margin: 0%;
+    padding: 0%;
+    font-size: 200%;
+    margin-left: 55px !important;
+  }
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: red;
+  }
+  .pandita {
+    height: 35px;
+  }
+  .redes {
+    margin-left: 200px;
+    margin-top: -10x;
+  }
+  .telefono {
+    font-size: 125%;
+    margin-right: 150px;
+  }
+  .telefono .icontel {
+    margin-top: -3px;
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .cartaimagenes {
+    width: 300px;
+  }
+}
+
+* {
+  text-align: center;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  background: white;
+}
+
+.navbar {
+  background: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+footer {
+  margin-top: 5%;
+  background: black;
+}
+
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+article {
+  color: white;
+}
+
+aside {
+  height: 30px;
+}
+
+aside {
+  height: 30px;
+}
+
+aside .redes {
+  letter-spacing: 15px;
+}
+
+aside .face:hover, aside .insta:hover, aside .whap:hover {
+  -webkit-transform: scale(2.3);
+          transform: scale(2.3);
+}
+
+aside {
+  margin: 0%;
+  padding: 0;
+  background: black;
+}
+
+.telefono {
+  color: red;
+}
+
+.icontel {
+  width: 16px;
+  height: 16px;
+  color: red;
+}
+
+* {
+  text-align: center;
+}
+/*# sourceMappingURL=stylecarta.css.map */
